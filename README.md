@@ -16,7 +16,7 @@ This chatbot can be used by utilizing any of the following implementations.
 1. Maps API Integration
 
 ## Information
-While Google and Verily have published a COVID-19 Virtual Agent (found in the sources), this chatbot has been completely designed from the ground up with information specifically about Lubbock, TX and Texas Tech University. The Virtual Agent created by Google and Verily has been used as inspiration for this project. I have also chosen to use the Google/Verily surfaces and covid-19 entities, however many changes have been made to these entities. Intents, repsonses, and training phrases are custom to this chatbot and trained specifically for Lubbock and Texas Tech.
+While Google and Verily have published a COVID-19 Virtual Agent (found in the sources), my implemented chatbot has been completely designed from the ground up with information specifically about Lubbock, TX and Texas Tech University. The Virtual Agent created by Google and Verily has been used as inspiration for this project. I have also chosen to use the Google/Verily surfaces and covid-19 entities, however many changes have been made to these entities. Intents, repsonses, and training phrases are custom to this chatbot and trained specifically for Lubbock and Texas Tech.
 
 ## Sources
 1. Google, Rapidly build and deploy a virtual agent using Dialogflow templates, https://cloud.google.com/dialogflow/es/docs/tutorials/covid19-rapid-response, 20 November 2020.
