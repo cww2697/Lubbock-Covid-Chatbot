@@ -1,0 +1,77 @@
+[
+  {
+    "id": "6f49b3d9-8e1b-4f56-b887-c3866b715c3e",
+    "data": [
+      {
+        "text": "Do masks stop ",
+        "userDefined": false
+      },
+      {
+        "text": "Covid",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e03de3f-4546-4352-8966-820723122d9f",
+    "data": [
+      {
+        "text": "Is there a mask mandate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fadabd8-cfa5-4c8d-93ca-cfc055ff6979",
+    "data": [
+      {
+        "text": "I don\u0027t feel sick, so do I need a mask?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f630868-4da1-4977-b052-3fd81b20c311",
+    "data": [
+      {
+        "text": "Do I need a mask?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f626dd52-2f1e-438e-9aaf-3ec5797abfea",
+    "data": [
+      {
+        "text": "Should I wear a mask?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

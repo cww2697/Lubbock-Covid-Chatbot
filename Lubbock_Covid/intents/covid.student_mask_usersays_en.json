@@ -1,0 +1,83 @@
+[
+  {
+    "id": "a65be330-43f5-4447-bc41-4f2cfd93c8c9",
+    "data": [
+      {
+        "text": "Texas",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " Tech ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " mask",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d122a8b4-90fa-4282-b64f-bee171dde7d2",
+    "data": [
+      {
+        "text": "mask on campus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31785c3d-785b-4ea9-8aa1-1cf21af41a66",
+    "data": [
+      {
+        "text": "Do I need a mask on campus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e30ca4c8-118f-43c4-b499-506d90e9d32a",
+    "data": [
+      {
+        "text": "I\u0027m young, should I wear a mask?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbc05457-4c34-4dd3-b5b9-c55b24e70535",
+    "data": [
+      {
+        "text": "Does Texas Tech have a mask mandate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "6f2519be-1bfc-499a-954c-7a4ee9ad454f",
+    "data": [
+      {
+        "text": "covid",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": true
+      },
+      {
+        "text": " positive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc8a3449-b372-4d8e-8d77-5747d6f587de",
+    "data": [
+      {
+        "text": "I tested positive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bca9550-9301-453b-b235-098dbcd871ae",
+    "data": [
+      {
+        "text": "I tested positive for ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86473976-a6ed-4c98-ae76-bd02ae07dd96",
+    "data": [
+      {
+        "text": "positive test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fd4e893-d7ff-47e7-ba85-5e274cd268f6",
+    "data": [
+      {
+        "text": "What should I do if I test positive?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

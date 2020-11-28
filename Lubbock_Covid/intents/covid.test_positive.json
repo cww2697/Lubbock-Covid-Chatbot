@@ -1,0 +1,50 @@
+{
+  "id": "f771c813-d5bb-4b7b-9bbe-64c72bf5d474",
+  "name": "covid.test_positive",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "03e7e046-f1d7-4949-bde0-0cdfadf50a41",
+          "name": "covid-19",
+          "required": false,
+          "dataType": "@covid-19",
+          "value": "$covid-19",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If you are experiencing severe chest pain, difficulty breathing, severe lightheadedness, serious disorientation, unresponsiveness, blue-tinted face or lips, you should call 911 immediately.\n\nYou should continue to quarantine until 14 days have passed since initial symptom onset. If you live around others, you should wear a mask when you must be around others."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "39b29cad-2d00-4ca5-9a3a-f347dc4bc845",
+    "data": [
+      {
+        "text": "How do I clean a ",
+        "userDefined": false
+      },
+      {
+        "text": "surface",
+        "meta": "@surface",
+        "alias": "surface",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32be056d-3ae7-451e-9e64-5cd729790b1d",
+    "data": [
+      {
+        "text": "Can I use liquor to clean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9359a0d-b877-4a6d-8caf-8806556f86ce",
+    "data": [
+      {
+        "text": "What should I use to disinfect ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d7c3fb5-87cf-4c75-a7bf-f61424d5158a",
+    "data": [
+      {
+        "text": "Do I need special cleaning supplies for ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be5ccce8-2a7f-41fd-b2a2-2320b239a7ea",
+    "data": [
+      {
+        "text": "What can I use to clean my house?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
