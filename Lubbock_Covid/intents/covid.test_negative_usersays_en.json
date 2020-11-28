@@ -1,0 +1,87 @@
+[
+  {
+    "id": "cddd808b-d0b7-4848-8baa-746b6954f4f2",
+    "data": [
+      {
+        "text": "can I have ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": true
+      },
+      {
+        "text": " if my test was negative?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1704947d-858b-4deb-a84a-a32e49ece3b0",
+    "data": [
+      {
+        "text": "Can I test positive for ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": true
+      },
+      {
+        "text": " after receiving a negative result",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcd06953-cec7-4fb6-bd24-c960cc4c02eb",
+    "data": [
+      {
+        "text": "negative test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0175c4c8-d764-4ef0-8541-e77f6c8065ec",
+    "data": [
+      {
+        "text": "What does it mean to have a negative test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "772491f0-0bc3-49c5-9ef9-e76e3dd848b4",
+    "data": [
+      {
+        "text": "Can I still test positive after a negative test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

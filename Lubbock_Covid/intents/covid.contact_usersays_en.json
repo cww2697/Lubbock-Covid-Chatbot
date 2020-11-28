@@ -1,0 +1,109 @@
+[
+  {
+    "id": "0cb4faa8-074d-48cc-a4ec-54895b67f2c4",
+    "data": [
+      {
+        "text": "I have been exposed to ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd87337d-0dfe-4c30-b2a6-e6086a41bf4f",
+    "data": [
+      {
+        "text": "What should I do if I have met someone with ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89209dee-188c-41b4-8324-4073f3b92e00",
+    "data": [
+      {
+        "text": "I have had close contact with someone who has ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "276d6c1b-894d-4433-878c-329956428855",
+    "data": [
+      {
+        "text": "Can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " from minor exposure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ced1f355-892f-4f7f-9c20-521bc62e9166",
+    "data": [
+      {
+        "text": "I may have been exposed to ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": ", should I be tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

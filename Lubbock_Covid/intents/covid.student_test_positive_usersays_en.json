@@ -1,0 +1,41 @@
+[
+  {
+    "id": "b0c72c9f-504c-4b36-9c18-3ae755afd736",
+    "data": [
+      {
+        "text": "student positive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fcc4ae7-96bb-45dd-a034-0ef4564765f0",
+    "data": [
+      {
+        "text": "positive student",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03e1c8ed-063e-44e4-9810-02e37f685f4e",
+    "data": [
+      {
+        "text": "I am a student and tested positive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

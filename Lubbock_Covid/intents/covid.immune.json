@@ -1,0 +1,50 @@
+{
+  "id": "9b053f7b-a589-4c54-b012-4e83753ca511",
+  "name": "covid.immune",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3a9c416d-938c-4c95-bc8a-86332ec26bc4",
+          "name": "covid-19",
+          "required": false,
+          "dataType": "@covid-19",
+          "value": "$covid-19",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Currently, the CDC is working to determine if it is possible to get sick with COVID-19 more than once. At this time we are unsure if you can become reinfected.\n\nUntil we can determine if it is possible to become sick with COVID-19 more than once, please continue to follow the CDC recommended safety precautions."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

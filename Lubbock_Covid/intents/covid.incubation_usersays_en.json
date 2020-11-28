@@ -1,0 +1,83 @@
+[
+  {
+    "id": "d8bfbcd7-3315-45d1-b3fd-f785b90f1276",
+    "data": [
+      {
+        "text": "How long is the incubation period?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9a70c3e-15e7-44cf-883b-7987a6e02723",
+    "data": [
+      {
+        "text": "Incubation period for ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ba6dc26-05fa-4347-9811-b1aade1757fa",
+    "data": [
+      {
+        "text": "When will I begin showing symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2add5a9-fd54-460f-a9d1-96203f6fb577",
+    "data": [
+      {
+        "text": "What is the incubation period of ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79086644-cf0c-46aa-aa55-6595c5721c39",
+    "data": [
+      {
+        "text": "How long is incubation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

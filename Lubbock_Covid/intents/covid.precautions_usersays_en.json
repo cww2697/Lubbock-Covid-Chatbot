@@ -1,0 +1,99 @@
+[
+  {
+    "id": "3c92640e-6810-4db1-8976-f84bb47ebcbe",
+    "data": [
+      {
+        "text": "not spread ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b60721fd-1903-4181-b220-f93c45994a18",
+    "data": [
+      {
+        "text": "how to prevent ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e528c556-4c35-44d6-bdf9-ba96f13deb5d",
+    "data": [
+      {
+        "text": "How to not get sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70bc66b1-a44f-4e6c-a13d-278c4684c8ff",
+    "data": [
+      {
+        "text": "Can I prevent the spread of ",
+        "userDefined": false
+      },
+      {
+        "text": "Covid",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ce7e010-b121-4e17-98b2-7ae1ca215235",
+    "data": [
+      {
+        "text": "What can I do to protect myself from ",
+        "userDefined": false
+      },
+      {
+        "text": "Covid",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

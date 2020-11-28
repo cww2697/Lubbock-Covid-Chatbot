@@ -1,0 +1,113 @@
+[
+  {
+    "id": "6f5ea12e-03f0-43bf-b9ee-73a9481127dc",
+    "data": [
+      {
+        "text": "Will I be immune to ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " if I had it already?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1abbb840-cd0e-49dd-878a-46e31bba11ca",
+    "data": [
+      {
+        "text": "Am I immune to the ",
+        "userDefined": false
+      },
+      {
+        "text": "rona?",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "624399a0-76d1-4edf-bd2d-da81eef62cf1",
+    "data": [
+      {
+        "text": "I already had ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": ", can I get it again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b87745f1-691a-42e1-b217-59bfa9bdff79",
+    "data": [
+      {
+        "text": "Can you catch ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a1aea44-871e-456b-83a3-14d8d91fa5a8",
+    "data": [
+      {
+        "text": "Can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " more than once?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

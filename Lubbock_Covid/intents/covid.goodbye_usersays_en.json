@@ -1,0 +1,54 @@
+[
+  {
+    "id": "d5239fb3-4890-43f9-bc8a-a94d45449e08",
+    "data": [
+      {
+        "text": "bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "504cd352-e1ff-4bd3-ad5c-44f3fa6e1c48",
+    "data": [
+      {
+        "text": "see you later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f758c67e-e9d0-454c-891e-4683a6fbf289",
+    "data": [
+      {
+        "text": "thank you for the help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cff05d86-7653-4bf7-b223-8e4114aad4c8",
+    "data": [
+      {
+        "text": "goodbye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

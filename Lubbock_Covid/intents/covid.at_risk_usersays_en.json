@@ -1,0 +1,101 @@
+[
+  {
+    "id": "342bafec-fe07-4106-a114-6f6dfb5384fb",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "Covid",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "USA",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8fd6501-6cc1-4f7c-9ac3-6fcb8180e0cc",
+    "data": [
+      {
+        "text": "Am I at risk for ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "United States",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99a4eff9-b154-417d-bb9f-da8dfa90edb9",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "covid-19",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " spreading in the ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

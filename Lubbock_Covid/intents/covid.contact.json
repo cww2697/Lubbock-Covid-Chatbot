@@ -1,0 +1,50 @@
+{
+  "id": "edbc22ef-ab82-4336-a60d-7867543f2c8c",
+  "name": "covid.contact",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1f450a3a-3262-46be-874d-3f146d9c8830",
+          "name": "covid-19",
+          "required": false,
+          "dataType": "@covid-19",
+          "value": "$covid-19",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If you have been exposed to COVID-19, you should self-isolate for 10 - 14 days. If you develop symptoms during this isolation period, you should get tested as soon as possible."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

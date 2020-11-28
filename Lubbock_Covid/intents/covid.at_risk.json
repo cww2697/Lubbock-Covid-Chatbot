@@ -1,0 +1,64 @@
+{
+  "id": "ef6ab371-6aea-4e5a-bfff-35f366274f50",
+  "name": "covid.at_risk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e6d422d1-20c9-49d6-b757-b0e81b7fad4c",
+          "name": "covid-19",
+          "required": false,
+          "dataType": "@covid-19",
+          "value": "$covid-19",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6077776b-61ac-4364-baaf-9ac5c46dd102",
+          "name": "geo-country",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "value": "$geo-country",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The situation with Covid-19 is rapidly evolving, and the risk assessment may change daily. \n\nIf you fall into any of the following categories you may be at a higher risk: Cancer, COPD, Heart conditions, Immunocompromised state, Obesity, Pregnancy, Sickle cell disease, Smoking, Type 1 or 2 diabetes, moderate-to-severe Asthma, or Cystic fibrosis. \n\nThis information provide here is not a medical recommendation, for more information please speak with your healthcare provider and follow the CDC guidelines."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

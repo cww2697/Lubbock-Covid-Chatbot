@@ -1,0 +1,51 @@
+{
+  "id": "e2341d5f-bba5-4d5c-bd5d-08efde67233a",
+  "name": "covid.incubation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5cb45c24-ffcf-4d7e-95f8-1908a2fda0c1",
+          "name": "covid-19",
+          "required": false,
+          "dataType": "@covid-19",
+          "value": "$covid-19",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "According to the World Health Organization, the incubation period for COVID-19 is between 1 and 14 days.",
+            "The time between catching COVID-19 and beginning to show symptoms usually ranges between 1 and 14 days, with most people becoming symptomatic around day 5."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
