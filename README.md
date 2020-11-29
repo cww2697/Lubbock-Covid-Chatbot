@@ -6,7 +6,7 @@ This chatbot can be used by utilizing any of the following implementations.
 ### Implementations
 1. Dialogflow Web Demo: https://bot.dialogflow.com/028b0f1d-8ad2-4bb9-a661-8ff7e69172f1
 1. Dialogflow Phone Gateway: 605-215-5287
-1. Google Assistant: Coming Soon
+1. Google Assistant: Coming Soon [Under Review by Google]
 1. Skype Bot: Coming Soon
 
 ## Intents Not Implemented
